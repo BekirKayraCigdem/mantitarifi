@@ -19,8 +19,6 @@
     </div>
     </p>
     <figure>
-
-    
     <img style="border-radius:50%; width:="300" align="right" src="https://cdn.yemek.com/mnresize/940/940/uploads/2017/02/kayserimantisi-yeni-1.jpg" alt="Kayseri Mantısı">
     </figure>
     <!--Content-Start-->
@@ -71,8 +69,7 @@
             <li>Yarım tatlı kaşığı sumak</li>
         </em>
         </ul>
-    </article>
-        
+    </article>     
     <!--Articles-End-->
 </section>
 <!--Content-End-->
