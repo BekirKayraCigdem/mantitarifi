@@ -7,6 +7,7 @@
     <title>Aslınur'un Mutfak Rehberi</title>
 </head>
 <body style="background-color: #f5e4cd; font-family:'Times New Roman', Times, serif; " >
+
     <em>
         <h2 >
             ...Kayseri Mantısı Tarifi...
@@ -18,6 +19,8 @@
     </div>
     </p>
     <figure>
+
+    
     <img style="border-radius:50%; width:="300" align="right" src="https://cdn.yemek.com/mnresize/940/940/uploads/2017/02/kayserimantisi-yeni-1.jpg" alt="Kayseri Mantısı">
     </figure>
     <!--Content-Start-->
@@ -68,7 +71,8 @@
             <li>Yarım tatlı kaşığı sumak</li>
         </em>
         </ul>
-    </article>    
+    </article>
+        
     <!--Articles-End-->
 </section>
 <!--Content-End-->
@@ -82,17 +86,17 @@
         <h3> <p style="padding:5px; background-color: #dfb995; text-align:center; color: rgb(136, 60, 37); border-radius: 20px; display: inline-block;"> 
             Kayseri Mantısı Nasıl Yapılır?</h3>
     </div>
-        <ol>
-            <h4>
-                <em> Hamuru için:</em>         
-        </h4>
+            <h4><em> Hamuru için:</em></h4>
+            <ul>
             Unu derin bir kabın içine alın.
             İçine tuz, yumurtayı ekleyin. Suyu azar azar ilave ederek yoğurmayı başlayın.
             Çok sert olmayan, orta yumuşaklıkta bir hamur elde edin.
             Elde ettiğiniz hamurun üzerini ıslak bir bezle örterek oda sıcaklığında 40 dakika kadar dinlenmeye bırakın.
+            </ul>
             <h4><em>
                 İç harcı için:
             </em></h4>
+            <ul>
             Soğanı çok minik küpler halinde doğrayın.
             Bir tülbentin içine alarak fazla suyunu süzdürün.
             Kıymayı bir kabın içine alın. Üzerine suları sıkılmış soğanları ilave edin.
@@ -105,13 +109,15 @@
             Bir tencerenin içerisine yağ ve salçay alın. Biraz kavurduktan sonra suyu ilave edin ve kaynatın.
             Tüm hamura aynı işlemi uyguladıktan sonra hazırladığınız mantıları kaynayan salçalı suyun içinde haşlayın.
             Haşlanan mantıları sos ile buluşturmak üzere ocaktan alın.
+        </ul>
             <h4><em>
                 Sosu için:
             </em></h4>
+            <ul>
             Sarımsakları ezerek yoğurtla karıştırın.
             Haşlanan mantıların üzerine yoğurt sos, nane ve pul biber gezdirerek afiyetle tüketin.
 <div>
-            <h2 style="font-family: #POUND, sans-serif; color:#000000; text-align:center;"><em>Afiyet Olsun...</em></h2>
+            <h2>...Afiyet Olsun...</h2>
 </div>
 </ol>
     </p>   
